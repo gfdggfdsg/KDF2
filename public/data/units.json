@@ -1,0 +1,15 @@
+{
+  "rifle_squad": {
+    "id": "rifle_squad",
+    "name": "Rifle Squad",
+    "hp": 10,
+    "ap": 4,
+    "vision": 4,
+    "move_cost": {
+      "plain": 1,
+      "forest": 2,
+      "hill": 2,
+      "water": 999
+    }
+  }
+}
