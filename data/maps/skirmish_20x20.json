@@ -1,0 +1,69 @@
+{
+  "name": "training_field",
+  "hexSize": 28,
+  "width": 20,
+  "height": 14,
+  "terrainPatches": [
+    {
+      "q": 4,
+      "r": 4,
+      "type": "forest"
+    },
+    {
+      "q": 5,
+      "r": 4,
+      "type": "forest"
+    },
+    {
+      "q": 6,
+      "r": 5,
+      "type": "forest"
+    },
+    {
+      "q": 10,
+      "r": 7,
+      "type": "hill"
+    },
+    {
+      "q": 11,
+      "r": 7,
+      "type": "hill"
+    },
+    {
+      "q": 12,
+      "r": 8,
+      "type": "hill"
+    },
+    {
+      "q": 14,
+      "r": 3,
+      "type": "water"
+    },
+    {
+      "q": 15,
+      "r": 3,
+      "type": "water"
+    },
+    {
+      "q": 15,
+      "r": 4,
+      "type": "water"
+    }
+  ],
+  "units": [
+    {
+      "id": "u1",
+      "type": "rifle_squad",
+      "owner": 1,
+      "q": 5,
+      "r": 5
+    },
+    {
+      "id": "e1",
+      "type": "rifle_squad",
+      "owner": 2,
+      "q": 13,
+      "r": 7
+    }
+  ]
+}
